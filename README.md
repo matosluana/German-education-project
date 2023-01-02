@@ -22,15 +22,23 @@ Data from Germany with focus on the federal state of Hessen and the city of Fran
 
 1- Data cleaning, preparation and SQL-export
 
-2- Hypothesis test: does higher family income lead to higher acceptance rate to the most prestigious schools?
+https://github.com/matosluana/German-education-project/blob/main/csv_and_jupyter/week5_project_cleaning_and_export.ipynb
+
+2- SQL-import and Hypothesis test: does higher family income lead to higher acceptance rate to the most prestigious schools?
+
+https://github.com/matosluana/German-education-project/blob/main/csv_and_jupyter/week5_project_sql_hypothesis.ipynb
 
 ### CSV Files
 
 Raw and manipulated data
 
+https://github.com/matosluana/German-education-project/tree/main/csv_and_jupyter
+
 ### Presentation
 
 Final presentation
+
+https://github.com/matosluana/German-education-project/blob/main/Presentation/Mid_bootcamp_project.pptx
 
 ### Data visualization with Tableau
 
