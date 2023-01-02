@@ -3,7 +3,7 @@
 ## The significance of pupils’ social background within Germany’s educational system
 ###  Ironhack Data Analytics Bootcamp
 
-**Task:** Choose a research question based on a local issue from your current location or the place you grew up in.
+**Task:** Choose a research question based on a local issue from your current location or the place you grew up in. Gather, analyse and present data and insights found.
 
 **Chosen research question:** Is the social and family background of children decisive for their education opportunities within German educational system?
 
@@ -20,7 +20,7 @@ Data from Germany with focus on the federal state of Hessen and the city of Fran
 
 ### Notebooks
 
-1- Data cleaning, preparation and export
+1- Data cleaning, preparation and SQL-export
 
 2- Hypothesis test: does higher family income lead to higher acceptance rate to the most prestigious schools?
 
